@@ -21,6 +21,12 @@ A super simple FastAPI application that allows students to view and sign up for 
    python app.py
    ```
 
+   If you're running from the repository root instead of the `src` folder, use:
+
+   ```
+   python src/app.py
+   ```
+
 3. Open your browser and go to:
    - API documentation: http://localhost:8000/docs
    - Alternative documentation: http://localhost:8000/redoc
